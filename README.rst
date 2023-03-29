@@ -1,4 +1,4 @@
-Project Name
+OS.JS QR ACCESS APPLICATION
 ============
 Version 1.0.0
 
