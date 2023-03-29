@@ -38,6 +38,7 @@ To access the code, clone the github repository with the following command:
 
 
 To install dependencies for your the mobile app, run the following command in your terminal:
+
 .. code-block:: console
 
    $ npm install
