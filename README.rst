@@ -8,11 +8,12 @@ Table of Contents
 =================
 * Setup
     * Mobile App
-      * Install
-      * Changing Expo Link
-      * Troubleshooting
+    ** Install
+    ** Changing Expo Link
+    * Troubleshooting
+    
     * Validation
-      * Install
+    * Install
     * Admin Panel
       * Install
 * Using Admin Panel
