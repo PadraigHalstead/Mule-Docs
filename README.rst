@@ -64,7 +64,7 @@ If required to install any additional packages, accept and install them.
 If the link in the validation applicaton is not working, it is likely that the links are not the same as what is running on the local machine and will need to be modified. To do this, carry out the following:
 
 1. Open the Validate Application in an IDE such as VSCODE.
-2. Navigate to :file:`./src/components/AdminUserValidationPanel.js`
+2. Navigate to `./src/components/AdminUserValidationPanel.js`
 3. Change this variable to match the link.
 
 .. code-block:: javascript
