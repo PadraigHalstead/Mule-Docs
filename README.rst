@@ -38,7 +38,7 @@ To access the code, clone the github repository with the following command:
 
 .. code-block:: console
 
-   $ git clone ""
+   $ git clone "https://github.com/PadraigHalstead/Mule-Mobile-App.git"
    $ cd mule-mobile
 
 To install dependencies for your the mobile app, run the following command in your terminal:
