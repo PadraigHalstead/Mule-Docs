@@ -110,5 +110,5 @@ To deny a student's check-in using the mobile app, follow these steps:
 
 1. Once you have scanned the code, the students details will appear on screen.
 2. Click on the "Deny" button
-4. Student will not be validated and you will be re-directed to the home screen.
+3. Student will not be validated and you will be re-directed to the home screen.
 
