@@ -1,6 +1,7 @@
 QR Access System
 ============
 Version 1.0.0
+
 Author: Padraig Halstead
 
 Table of Contents
