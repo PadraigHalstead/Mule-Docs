@@ -6,27 +6,50 @@ Author: Padraig Halstead
 Table of Contents
 =================
 * Setup
-    * [Mobile App](#mobile-app)
-    * [Validation](#validation)
-    * [Admin Panel](#admin-panel)
-
-
-
-* Admin Panel
+    * Mobile App
+      * Install
+      * Changing Expo Link
+      * Troubleshooting
+    * Validation
+      * Install
+    * Admin Panel
+      * Install
+* Using Admin Panel
     * Login
     * Adding Administrators
     * Removing Administrators
     * Revoking Access from Students
-* Validate Application
+* Using Validate Application
     * Login/Signup
     * Demonstrators
     * Students
     * Changing Expo URL
-* Mobile App
+* Using Mobile App
     * Login
     * Scanning QR Codes
     * Validating Students
     * Denying Validation
+
+## Setup
+
+### Mobile App
+To access the code, clone the github repository with the following command:
+
+
+
+To install dependencies for your the mobile app, run the following command in your terminal:
+.. code-block:: console
+
+   $ npm install
+
+
+### Validation
+...
+
+### Admin Panel
+...
+
+
 
 Admin Panel
 ===========
@@ -62,19 +85,6 @@ To revoke a user's access to certain features, follow these steps:
 3. Click on the "Edit" button next to the user's name
 4. Uncheck the boxes for the features you want to revoke access to
 5. Click "Save" to apply the changes
-
-
-## Setup
-
-### Mobile App
-...
-
-### Validation
-...
-
-### Admin Panel
-...
-
 
 Validate Application
 ====================
