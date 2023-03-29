@@ -1,9 +1,17 @@
-Mule QR Access System
+QR Access System
 ============
 Version 1.0.0
+Author: Padraig Halstead
 
 Table of Contents
 =================
+* Setup
+    * [Mobile App](#mobile-app)
+    * [Validation](#validation)
+    * [Admin Panel](#admin-panel)
+
+
+
 * Admin Panel
     * Login
     * Adding Administrators
@@ -31,7 +39,7 @@ To add a new user to the system, follow these steps:
 1. Log in to the admin panel
 2. Click on the "Add +" button
 3. Fill out the users email and select their role
-5. Click "Submit" to add the administrator
+4. Click "Submit" to add the administrator
 
 Removing Administrators
 --------------
@@ -54,6 +62,19 @@ To revoke a user's access to certain features, follow these steps:
 3. Click on the "Edit" button next to the user's name
 4. Uncheck the boxes for the features you want to revoke access to
 5. Click "Save" to apply the changes
+
+
+## Setup
+
+### Mobile App
+...
+
+### Validation
+...
+
+### Admin Panel
+...
+
 
 Validate Application
 ====================
@@ -86,7 +107,7 @@ To log in to the mobile app, follow these steps:
 1. Open the validation application as an adminstrator.
 2. Scan your QR code to open the Expo Application
 3. Enter your credentials on the login screen.
-2. Click the "Log In" button.
+4. Click the "Log In" button.
 
 Scanning QR Codes
 -----------------
@@ -102,7 +123,7 @@ To validate a student's check-in using the mobile app, follow these steps:
 
 1. Once you have scanned the code, the students details will appear on screen.
 2. Click on the "Accept" button
-4. Student will be validated and can begin their work.
+3. Student will be validated and can begin their work.
 
 Denying Validation
 ------------------
