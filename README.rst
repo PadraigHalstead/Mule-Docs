@@ -35,13 +35,44 @@ Table of Contents
 ### Mobile App
 To access the code, clone the github repository with the following command:
 
+.. code-block:: console
 
+   $ git clone ""
+   $ cd mule-mobile
 
 To install dependencies for your the mobile app, run the following command in your terminal:
 
 .. code-block:: console
 
    $ npm install
+   
+You may also need to install Expo as a global package:
+
+.. code-block:: console
+
+   $ npm install -g expo-cli
+   
+After running both of these, run the following command in the root of the application:
+
+.. code-block:: console
+
+   $ expo start
+
+If required to install any additional packages, accept and install them.
+
+### Changing Expo Link
+If the link in the validation applicaton is not working, it is likely that the links are not the same as what is running on the local machine and will need to be modified. To do this, carry out the following:
+
+1. Open the Validate Application in an IDE such as VSCODE.
+2. Navigate to :file:`./src/components/AdminUserValidationPanel.js`
+3. Change this variable to match the link.
+
+.. code-block:: javascript
+
+   const expoURL = "exp://149.157.117.167:19000"
+   //Change the link here to whats in the terminal
+
+### Troubleshooting
 
 
 ### Validation
